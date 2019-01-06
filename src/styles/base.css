@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Alverata Black';
+  src: url('./Alverata-Black.otf'); /* IE9 Compat Modes */
+}
+
+body {
+  font-family: sans-serif;
+  color: #333333;
+}

@@ -1,0 +1,38 @@
+{
+  "name": "zopa-react-web-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-circular-progressbar": "^1.0.0",
+    "react-dom": "16.4.2",
+    "react-redux": "^5.1.0",
+    "react-scripts": "^2.1.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.1.1",
+    "validator": "^10.9.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^23.6.0",
+    "babel-plugin-styled-components": "^1.9.1",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "jest": "^23.6.0",
+    "redux-mock-store": "^1.5.3"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
